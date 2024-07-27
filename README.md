@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Shweta
 - 👀 I’m interested in Frontend developing
-- 🌱 I’m currently learning frontend
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by mail shindeshweta9495@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
 <!---
